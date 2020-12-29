@@ -1,0 +1,329 @@
+﻿Begin Form *
+    DockTitleVisible = True
+    DrawOnPaint = True
+    GlobalX = 0
+    GlobalY = 0
+    Height = 768
+    LoadedHeight = 765
+    LoadedWidth = 769
+    LoadedX = 550
+    LoadedY = 37
+    MouseTracking = True
+    Opacity = 100
+    Resizable = False
+    SQLControls = "AllHidden;"
+    SQLDelete = True
+    SQLInsert = True
+    SQLName = "SELECT * FROM convos"
+    SQLUpdate = True
+    Visible = True
+    Width = 769
+    X = 550
+    Y = 37
+
+
+  Begin Label Label1
+    BoxIndex = 0
+    BoxX = 0
+    BoxY = 0
+    Caption = "http://tinyurl.com/cdpdes6_kbasicBR_"
+    DrawOnPaint = True
+    Enabled = True
+    Feature = "LinksAccessibleByMouse"
+    FocusOrder = 0
+    GlobalX = 0
+    GlobalY = 0
+    Height = 30
+    LoadedHeight = 30
+    LoadedWidth = 186
+    LoadedX = 538
+    LoadedY = 706
+    OpenLinks = True
+    ParentControl = ""
+    ParentIndex = 0
+    SplitIndex = 0
+    TabIndex = 0
+    TableViewOrder = 0
+    TableViewVisible = True
+    TableViewWidth = 0
+    TimerInterval = 0
+    Visible = True
+    Width = 186
+    WordWrap = True
+    X = 538
+    Y = 706
+  End
+
+  Begin Label Label2
+    BoxIndex = 0
+    BoxX = 0
+    BoxY = 0
+    Caption = "          Keep textIM alive! -"
+    DrawOnPaint = True
+    Enabled = True
+    FocusOrder = 0
+    GlobalX = 0
+    GlobalY = 0
+    Height = 30
+    LoadedHeight = 30
+    LoadedWidth = 183
+    LoadedX = 369
+    LoadedY = 707
+    ParentControl = ""
+    ParentIndex = 0
+    SplitIndex = 0
+    TabIndex = 0
+    TableViewOrder = 0
+    TableViewVisible = True
+    TableViewWidth = 0
+    TimerInterval = 0
+    Visible = True
+    Width = 183
+    WordWrap = True
+    X = 369
+    Y = 707
+  End
+
+  Begin RadioButton RadioButton1
+    BoxIndex = 0
+    BoxX = 0
+    BoxY = 0
+    Caption = "RadioButton"
+    DrawOnPaint = True
+    Enabled = True
+    FocusOrder = 0
+    LoadedHeight = 0
+    LoadedWidth = 0
+    LoadedX = 0
+    LoadedY = 0
+    ParentControl = ""
+    ParentIndex = 0
+    SplitIndex = 0
+    TabIndex = 0
+    TimerInterval = 0
+    Visible = True
+  End
+
+  Begin TextBox TextBox1
+    BoxIndex = 0
+    BoxX = 0
+    BoxY = 0
+    DrawOnPaint = True
+    Enabled = True
+    Flat = True
+    FocusOrder = 0
+    GlobalX = 0
+    GlobalY = 0
+    Height = 22
+    IntegerMaximum = 0
+    LoadedHeight = 22
+    LoadedWidth = 420
+    LoadedX = 49
+    LoadedY = 146
+    ParentControl = ""
+    ParentIndex = 0
+    SQLName = "title"
+    SplitIndex = 0
+    StringValue = "TextBox"
+    TabIndex = 0
+    TableViewOrder = 0
+    TableViewVisible = True
+    TableViewWidth = 0
+    TimerInterval = 0
+    Visible = True
+    Width = 420
+    X = 49
+    Y = 146
+  End
+
+  Begin TextBox TextBox2
+    BoxIndex = 0
+    BoxX = 0
+    BoxY = 0
+    DrawOnPaint = True
+    Enabled = True
+    Flat = True
+    FocusOrder = 0
+    GlobalX = 0
+    GlobalY = 0
+    Height = 22
+    IntegerMaximum = 0
+    LoadedHeight = 22
+    LoadedWidth = 58
+    LoadedX = 474
+    LoadedY = 146
+    ParentControl = ""
+    ParentIndex = 0
+    SQLName = "kbrecordid"
+    SplitIndex = 0
+    StringValue = "TextBox"
+    TabIndex = 0
+    TableViewOrder = 0
+    TableViewVisible = True
+    TableViewWidth = 0
+    TimerInterval = 0
+    Visible = True
+    Width = 58
+    X = 474
+    Y = 146
+  End
+
+  Begin ImageBox ImageBox1
+    BoxIndex = 0
+    BoxX = 0
+    BoxY = 0
+    DrawOnPaint = True
+    Enabled = False
+    FocusOrder = 0
+    GlobalX = 0
+    GlobalY = 0
+    Height = 92
+    LoadedHeight = 92
+    LoadedWidth = 431
+    LoadedX = 164
+    LoadedY = 34
+    ParentControl = ""
+    ParentIndex = 0
+    SplitIndex = 0
+    StringValue = "/Applications/textIM/textIM.kbasic_project/Yc3bEU1494344104.png"
+    TabIndex = 0
+    TableViewOrder = 0
+    TableViewVisible = True
+    TableViewWidth = 0
+    TimerInterval = 0
+    Visible = True
+    Width = 431
+    X = 164
+    Y = 34
+  End
+
+  Begin ComboBox ComboBox1
+    BoxIndex = 0
+    BoxX = 0
+    BoxY = 0
+    CSV = "Previous Dialogue;Next Dialogue;Last Dialogue;Add New Conversation;Save Conversation;Remove Conversation"
+    DrawOnPaint = True
+    Enabled = True
+    Flat = False
+    FocusOrder = 0
+    FontSize = 14
+    GlobalX = 0
+    GlobalY = 0
+    Height = 26
+    IntegerMaximum = 0
+    LoadedHeight = 26
+    LoadedWidth = 185
+    LoadedX = 534
+    LoadedY = 144
+    ParentControl = ""
+    ParentIndex = 0
+    SplitIndex = 0
+    TabIndex = 0
+    TableViewOrder = 0
+    TableViewVisible = True
+    TableViewWidth = 0
+    TimerInterval = 0
+    Visible = True
+    Width = 185
+    X = 534
+    Y = 144
+  End
+
+  Begin RichTextBox RichTextBox1
+    AcceptRichText = True
+    BoxIndex = 0
+    BoxX = 0
+    BoxY = 0
+    DrawOnPaint = True
+    Enabled = True
+    Flat = False
+    FocusOrder = 0
+    FontSize = 18
+    GlobalX = 0
+    GlobalY = 0
+    Height = 518
+    LoadedHeight = 518
+    LoadedWidth = 668
+    LoadedX = 48
+    LoadedY = 180
+    ParentControl = ""
+    ParentIndex = 0
+    SQLName = "text"
+    SplitIndex = 0
+    TabIndex = 0
+    TableViewOrder = 0
+    TableViewVisible = True
+    TableViewWidth = 0
+    TimerInterval = 0
+    Visible = True
+    Width = 668
+    X = 48
+    Y = 180
+  End
+
+End Form
+
+
+Private Sub CommandButton1_OnEvent()
+Me.Next  
+End Sub
+
+
+
+Private Sub CommandButton4_OnEvent()
+  Me.Previous
+End Sub
+
+
+
+Private Sub CommandButton2_OnEvent()
+  Me.AddNew
+End Sub
+
+
+
+Private Sub CommandButton3_OnEvent()
+  Me.Delete
+End Sub
+
+
+
+Private Sub CommandButton5_OnEvent()
+  Me.Update
+  
+End Sub
+
+
+
+Private Sub CommandButton6_OnEvent()
+  Me.Last
+End Sub
+
+
+
+Private Sub ComboBox1_OnEvent(Index As Integer, Caption As String)
+
+  Select case Index
+   Case 1
+   Me.Previous
+   Case 2
+    Me.Next
+    Case 3
+    Me.Last
+    Case 4
+    Me.AddNew
+    Case 5
+    Me.Update
+    Case 6
+    Me.Delete
+  
+   End Select
+  
+End Sub
+
+
+
+Private Sub TextBox2_OnEvent()
+  
+End Sub
+
