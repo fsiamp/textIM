@@ -1,0 +1,37 @@
+﻿Begin Form *
+    DockTitleVisible = True
+    DrawOnPaint = True
+    GlobalX = 0
+    GlobalY = 0
+    Height = 700
+    LoadedHeight = 366
+    LoadedWidth = 492
+    MouseTracking = True
+    Opacity = 100
+    Resizable = True
+    SQLDelete = True
+    SQLInsert = True
+    SQLUpdate = True
+    Visible = True
+    Width = 913
+    X = 400
+    Y = 52
+
+
+  Begin WebView WebView1
+    DrawOnPaint = True
+    Enabled = True
+    GlobalX = 0
+    GlobalY = 0
+    Height = 700
+    HomeURL = "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=fsiamp%40gmail%2ecom&lc=US&item_name=textCONVOS&amount=5%2e00&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
+    ParentControl = ""
+    TabIndex = 0
+    TableViewVisible = True
+    Visible = True
+    Width = 913
+    X = 0
+    Y = 0
+  End
+
+End Form

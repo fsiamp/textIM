@@ -1,0 +1,155 @@
+DROP TABLE IF EXISTS "convos";
+CREATE TABLE "convos" ("id" INTEGER PRIMARY KEY  AUTOINCREMENT  NOT NULL , "title" TEXT, "text" TEXT);
+INSERT INTO "convos" VALUES(1,'The new Naruto is out','Commander_Shepard] Wrex.
+
+[Clan_URDNOT] Shepard.
+
+[AbUsEd_BiOtIc] wtf wrex you have internet on tuchanga how the fuck 
+
+[AbUsEd_BiOtIc] last time i was there you didnt even have plumbing i had to shit on the ground
+
+[Clan_URDNOT] We’re doing pretty well now that the clans are united.
+
+[Clan_URDNOT] We just rebuilt the Wal*Mart and the Starbucks. Starbucks has free WiFi!
+
+[AbUsEd_BiOtIc] WTF
+
+[~*Kasumi*~] Shep, can we stop at Illium some time soon?
+
+[~*Kasumi*~] The new Naruto is out and I’d like to pick it up.
+
+[AbUsEd_BiOtIc] fuck you and your animes you chink
+
+[Jacob] Jack, stop being such a turd all the time.
+
+[Jacob] It’s not our fault a bad Cerberus cell touched your “red-light area.”
+
+[AbUsEd_BiOtIc] jacob ur just antique farm equipment im surprised you can type
+
+[Jacob] That comment is extremely racist and I’m reporting it to HR.
+
+[AbUsEd_BiOtIc] yeah right we dont have a human resources department unless you count miranda
+
+[AbUsEd_BiOtIc] since her dad made her to do shit for him shes technically a human resource
+
+[AbUsEd_BiOtIc] and by that i mean a massive fucking tool
+
+[guddamn_zaeed] I have to admit, that was pretty guddamn funny
+
+User AbUsEd_BiOtIc has been banned (reason: being annoying again)
+
+[Love_This_Rifle] NEVER SAW IT COMMIN’!
+
+[Commander Shepard] Hey, Garrus, Tali’s asleep in the engine room again.
+
+[Commander Shepard] Wanna go fuck with the knobs on her suit like old times?
+
+[Love_This_Rifle] Sorry, Shepard, but I’m kind of busy.
+
+[Jacob] calibrating
+
+[~*Kasumi*~] calibrating
+
+[guddamn_zaeed] calibrating
+
+[Not_an_undergrad] calibrating
+
+[KChambers] calibrating
+
+[Tube_Born] calibrating
+
+[Thane] calibrating
+
+[Love_This_Rifle] I hate you all.
+
+User Legion has logged on.
+
+[Legion] Shepard-Commander, we have come to consensus regarding your invitation for sexual intercourse.
+
+[Legion] We are currently experiencing a headache.
+
+User Legion has logged off.
+
+[Jacob] DAYUM
+
+[Love_This_Rifle] Ouch.
+
+[~*Kasumi*~] Poor Shep!
+
+[Not_an_undergrad] For the best. Intercourse with Geth not advisable.
+
+[Not_an_undergrad] May contract a virus!
+
+[guddamn_zaeed] I’ve never heard Mordin tell a guddamn joke before
+
+[Miranda] Nice!
+
+User TALI has logged on.
+
+User Miranda has logged off. (reason: Off to wake up Tali again) 
+
+[TALI] GREETINGS, SHEPARD. I HAVE FORGOTTEN THE ACCESS CODE TO THE NORMANDY’S CONTROL SYSTEM.
+
+[TALI] PLEASE REPEAT IT.
+
+[~*Kasumi*~] Sounds kind of suspicious, Shep.
+
+[Not_an_undergrad] Not likely she’d forget a code she uses every day.
+
+[Jacob] Don’t do it, Commander.
+
+[Commander Shepard] Shut up, I’m the commander on board. If I want to give Tali the code, I will.
+
+[guddamn_zaeed] facepalm
+
+[Commander Shepard] It’s A-639-42118. Write that shit down.
+
+[TALI] THANK YOU, SHEPARD.
+
+User TALI has logged off.
+
+User Tali_vas_Normandy has logged on.
+
+[Tali_vas_Normandy] Commander, please inform Miranda that kicking crewmembers in the face is not an appropriate way to wake them.
+
+[Commander Shepard] oh shit
+
+[KChambers] fuck 
+
+[guddamn_zaeed] oh guddamn
+
+[Jacob] what have you done
+
+[EDI] Shepard, I’ve detected an irregularity in the ship’s drive core sys-ASSUMING DIRECT CONTROL
+
+[Love_This_Rifle] Shepard, you’re a fucking genius.
+
+User EDI is now HARBINGER.
+
+[HARBINGER] THIS HURTS YOU, SHEPARD
+
+[Commander Shepard] Activate escape pods immed
+
+User Commander_Shepard has logged off. reason: timeout error)
+
+User Jacob has logged off. (reason: timeout error)
+
+User Tali_vas_Normandy logged off. (reason: timeout error)
+
+User Love_This_Rifle has logged off. (reason: timeout error)
+
+User ~*Kasumi*~ has logged off. (reason: timeout error)
+
+User guddamn_zaeed has logged off. (reason: timeout error)
+
+User Thane has logged off. (reason: timeout error)
+
+User Tube_Born has logged off. (reason: timeout error)
+
+User Not_an_undergrad has logged off. (reason: timeout error)
+
+User KChambers has logged off. (reason: timeout error)
+
+[Clan_URDNOT] Shepard?
+
+[Daniel] HELP ME! MAKE IT STOP!');
